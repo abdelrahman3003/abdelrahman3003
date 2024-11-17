@@ -12,14 +12,15 @@
 - 📈 Always eager to improve my skills through open-source contributions.  
 
 ---
-
 ### 📄 My CV:
 You can find my CV [here](https://drive.google.com/file/d/1LDA10e2Yy1ES8303ea5c-c_WeC3bUouz/view?usp=drive_link).
 
+---
 ### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman3003&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
 ---
 
 ### 🛠️ Skills:
