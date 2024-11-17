@@ -9,7 +9,9 @@
 - 💻 Specialized in building cross-platform applications using **Dart** and **Flutter**.  
 - 🏆 Passionate about solving problems and creating efficient systems.  
 - 🌟 Enthusiastic about integrating **UI/UX** for seamless user experiences.  
-- 📈 Always eager to improve my skills through open-source contributions.  
+- 📈 Always eager to improve my skills through open-source contributions.
+- 📄 You can find my CV [here](https://drive.google.com/file/d/1LDA10e2Yy1ES8303ea5c-c_WeC3bUouz/view?usp=drive_link).
+
 
 ---
 
