@@ -9,10 +9,12 @@
 - 💻 Specialized in building cross-platform applications using **Dart** and **Flutter**.  
 - 🏆 Passionate about solving problems and creating efficient systems.  
 - 🌟 Enthusiastic about integrating **UI/UX** for seamless user experiences.  
-- 📈 Always eager to improve my skills through open-source contributions.
-- 📄 You can find my CV [here](https://drive.google.com/file/d/1LDA10e2Yy1ES8303ea5c-c_WeC3bUouz/view?usp=drive_link).
-![Commits](https://img.shields.io/github/commits-since/abdelrahman3003/abdelrahman3003/latest?style=for-the-badge)
+- 📈 Always eager to improve my skills through open-source contributions.  
 
+---
+
+### 📄 My CV:
+You can find my CV [here](https://drive.google.com/file/d/1LDA10e2Yy1ES8303ea5c-c_WeC3bUouz/view?usp=drive_link).
 
 ---
 
@@ -22,6 +24,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### **Development Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
