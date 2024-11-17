@@ -11,6 +11,7 @@
 - 🌟 Enthusiastic about integrating **UI/UX** for seamless user experiences.  
 - 📈 Always eager to improve my skills through open-source contributions.
 - 📄 You can find my CV [here](https://drive.google.com/file/d/1LDA10e2Yy1ES8303ea5c-c_WeC3bUouz/view?usp=drive_link).
+![Commits](https://img.shields.io/github/commits-since/abdelrahman3003/abdelrahman3003/latest?style=for-the-badge)
 
 
 ---
