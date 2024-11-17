@@ -36,7 +36,7 @@ You can find my CV [here](https://drive.google.com/file/d/1LDA10e2Yy1ES8303ea5c-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### **Technologies:**
-- **Bloc, Cubit, GetX**  
+- **Bloc, Cubit, Provider, GetX**  
 - **RESTful API, Dio, Retrofit**  
 - **Google maps, Real-time, Notifications, Localization**  
 - **Payment Integration (PayPal, Stripe)**  
