@@ -38,7 +38,7 @@ You can find my CV [here](https://drive.google.com/file/d/1LDA10e2Yy1ES8303ea5c-
 #### **Technologies:**
 - **Bloc, Cubit, GetX**  
 - **RESTful API, Dio, Retrofit**  
-- **Real-time Notifications, Localization**  
+- **Google maps, Real-time, Notifications, Localization**  
 - **Payment Integration (PayPal, Stripe)**  
 
 ---
