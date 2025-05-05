@@ -3,7 +3,7 @@
 I'm a Flutter developer specializing in building fast, responsive, and user-friendly mobile apps. I focus on writing clean code, following best practices, and delivering real value through beautiful and functional applications
 
 ## 📫 Contact Me
-- 📧 Email: your.email@example.com  
+- 📧 Email: abdelrahmantemsah30@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/abdelrahman-temsah-8804292a3)  
 - 📱 WhatsApp: 01032970717  
 
