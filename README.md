@@ -6,6 +6,7 @@ Flutter developer from Cairo, Egypt with **2 years of experience** building and 
 
 | App | What it does | Get it |
 | --- | --- | --- |
+| **Tabibak for Clinic** | Clinic-side app for managing schedules and appointments | [Google Play](https://play.google.com/store/apps/details?id=app.temsah.tabibak_for_clinic) |
 | **Tabibak** | Find doctors, check their schedules, and book medical appointments | [Google Play](https://play.google.com/store/apps/details?id=app.temsah.tabibak) |
 | **PraySync** | Accurate prayer times and Qibla direction based on your location | [Google Play](https://play.google.com/store/apps/details?id=com.abdelrahman.praysync) |
 
